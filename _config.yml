@@ -20,7 +20,7 @@ title                    : "테니스코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TENNIS CODING"
-description              : "테니스 코딩화를 꿈꾸는 블로거입니다."
+description              : "테니스 코딩화를 꿈꾸는 블로거"
 url                      : "https://Kleoleo13.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "TENNIS CODING"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "테니스 코딩화를 꿈꾸는 블로거입니다."
+  bio              : "테니스 코딩화를 꿈꾸는 블로거"
   location         : "South Korea"
   email            :
   links:
