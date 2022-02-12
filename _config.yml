@@ -113,7 +113,7 @@ author:
       url: "mailto:kleoleo13@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kleoleo13.github.io/"
+      url: "https://tenniscoding.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kleoleo13/"
+      url: "https://github.com/tenniscoding/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kleoleo13/"
+      # url: "https://github.com/tenniscoding/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
