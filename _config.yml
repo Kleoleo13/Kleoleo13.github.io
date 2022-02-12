@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TENNIS CODING"
 description              : "테니스 코딩화를 꿈꾸는 블로거"
-url                      : "https://Kleoleo13.github.io"
+url                      : "https://tenniscoding.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
